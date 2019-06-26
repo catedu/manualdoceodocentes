@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/manualdoceo.git/0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md" %}

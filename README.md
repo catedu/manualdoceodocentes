@@ -1,3 +1,7 @@
-# My Awesome Book
+# Manual de Doceo para Docentes 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Manual de la nueva aplicación de gestión de la formación del profesorado en Aragón. 
+
+![](/assets/Selección_786.png)
+
+

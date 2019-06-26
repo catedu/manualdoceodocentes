@@ -1,7 +1,5 @@
 # Summary
 
-# Summary
-
 ## Introducción
 
 * [Manual del nuevo Doceo](README.md)
@@ -9,7 +7,6 @@
   * [¿Qué es?](0_doceo_30_gestion_de_la_formacion_del_profesorado/que_es.md)
   * [¿Cómo se accede?](0_doceo_30_gestion_de_la_formacion_del_profesorado/como_se_accede.md)
   * [Modificando el perfil](0_doceo_30_gestion_de_la_formacion_del_profesorado/modificando_mi_perfil.md)
-  * [Roles en la formación](0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion.md)
 * [Propuestas de mejoras y reportes de error.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 
 ## Doceo para Docentes y otros miembros de la Comunidad Educativa.
