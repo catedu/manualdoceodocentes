@@ -1,9 +1,9 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
+    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
     "language": "es",
     "variables": {
         "title": "Manual de DOCEO",
-        "author": "Equipo de CATEDU ",
+        "author": " Equipo de CATEDU ",
         "collaborators": [
             { "name": "", "edited": "" },
             { "name": "", "edited": "" }
@@ -17,21 +17,13 @@
             "hline": true,
             "filename": "./FOOTER.md"
         },
-        "quiz": {
-            "labels": {
-                "check": "Comprobar",
-                "showExplanation": "Retroalimentación",
-                "showCorrect": "Mostrar la respuesta correcta",
-                "explanationHeader": "Explicación"
-            },
-            "text": {
-                "noChosen": "Elige al menos una respuesta",
-                "incomplete": "Faltan algunas respuestas correctas"
-            },
-            "buttons": {
-                "showCorrect": true,
-                "showExplanation": true
-            }
+        "edit-link": {
+            "base": "https://github.com/catedu/manualdoceo/edit/master",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "manualdoceo"
         }
     }
 }
