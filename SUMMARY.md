@@ -30,3 +30,6 @@
 * [Estado de una actividad](2_actividades/flujo_de_una_actividad.md)
   * [Cambiar el estado de una actividad](2_actividades/flujo_de_una_actividad/cambiar-el-estado-de-una-actividad.md)
 
+## Créditos
+
+* [Créditos](creditos.md)
