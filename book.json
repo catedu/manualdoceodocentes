@@ -1,29 +1,47 @@
 {
-    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
-    "language": "es",
-    "variables": {
-        "title": "Manual de DOCEO",
-        "author": " Equipo de CATEDU ",
-        "collaborators": [
-            { "name": "", "edited": "" },
-            { "name": "", "edited": "" }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "image-captions",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Manual de DOCEO",
+    "author": " Equipo de CATEDU ",
+    "collaborators": [
+      {
+        "name": "",
+        "edited": ""
+      },
+      {
+        "name": "",
+        "edited": ""
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
     },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/manualdoceo/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "manualdoceo"
-        }
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/manualdoceo/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "manualdoceo"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
