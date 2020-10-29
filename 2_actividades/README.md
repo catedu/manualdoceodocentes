@@ -1,2 +1,3 @@
+# Coordinación de actividades
 
-{% include "git+https://github.com/catedu/manualdoceo.git/2_actividades/coordinacion-de-actividades.md" %}
+En las siguientes páginas veremos detalles relativos a la coordinación de actividades.
